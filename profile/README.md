@@ -1,6 +1,6 @@
 ## <p align="center"> Hi there 👋 </p>
 
-![image](https://user-images.githubusercontent.com/74598401/141482238-b2bce0cc-8148-4724-8dfc-492134c04408.jpeg)
+<p align="center"> <img src="https://user-images.githubusercontent.com/74598401/143666428-f1ee3932-9b00-434f-ac28-10c4a583f3a9.png"></img> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheWebCrafters&label=Profile%20views&color=0e75b6&style=flat" alt="TheWebCrafters" /> </p>
 
