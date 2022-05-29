@@ -5,5 +5,5 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=TheWebCrafters&label=Profile%20views&color=0e75b6&style=flat" alt="TheWebCrafters" /> </p>
 
-  <p> We make open source games and other useful code! </p>
+  <p> We make open-source games, software, and many other useful things! </p>
 </div>
