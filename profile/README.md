@@ -8,4 +8,5 @@
   <p> We make open-source games, software, and many other useful things! </p>
   
   <a href="https://replit.com/teams/join/gpvkqrjhcseywqavynnuowsvslvsyguq-1upCommunity">[Replit team]</a>
+  <a href="https://discord.gg/UhAxUqph">[Discord]</a>
 </div>
