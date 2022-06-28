@@ -7,5 +7,5 @@
 
   <p> We make open-source games, software, and many other useful things! </p>
   
-  <p>[Replit team](https://replit.com/teams/join/gpvkqrjhcseywqavynnuowsvslvsyguq-1upCommunity)</p>
+  <a href="https://replit.com/teams/join/gpvkqrjhcseywqavynnuowsvslvsyguq-1upCommunity">[Replit team]</a>
 </div>
